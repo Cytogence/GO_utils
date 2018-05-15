@@ -4,4 +4,4 @@ Tools for reformatting and editing gene ontology data from the Gene Ontology Con
 
 ## GO_flatten.pl
 
-Takes GO annotation data for each species and "flattens" the data for use in the blue Whale app.
+Takes GO annotation data for each species and "flattens" the data for use in the Orca app.
